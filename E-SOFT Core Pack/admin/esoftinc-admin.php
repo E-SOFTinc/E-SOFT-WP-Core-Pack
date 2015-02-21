@@ -102,7 +102,7 @@ if (empty($cbw_content)) $cbw_content = CBW_DEFAULT_CODE;
         <?php settings_fields( 'cbw-settings-group' ); ?>
         <?php do_settings_sections( 'cbw-settings-group' ); ?>
         <input type="hidden" id="cbw_below_powered" name="cbw_below_powered" value="<?php echo $cbw_powered;  ?>" />
-       <h1> Listes des shortcuts du Pack</h1>
+       <h1> Listes des shortcuts du Core Pack</h1>
        <ul><li> [es-year]</li>
         <li>[es-month]</li>
         <li>[es-day]</li>
@@ -110,6 +110,14 @@ if (empty($cbw_content)) $cbw_content = CBW_DEFAULT_CODE;
         <li>[es-gemcoin-price]</li>
 	</ul>
 
+<h2>Coordonnées E-SOFT pour support clients</h2>
+<p><strong>E-SOFT Inc. </strong><br>
+   3433 boulevard de la Pinière, Suite 209 <br>
+   Terrebonne, Québec, J6X 0A1 <br>
+   <br>
+   Bur: <strong>+1 (450) 312-1110 </strong><br>
+   Cell: +1 (438) 822-6370 <br>
+   Sans frais: +1 (800) 721-0474</p>
         <!--<table class="form-table" border="0" style="min-width:500px;">
             <tr>
                 <td style="padding-top:0;margin-top:0;">
@@ -122,9 +130,9 @@ if (empty($cbw_content)) $cbw_content = CBW_DEFAULT_CODE;
                     ?>
                 </td>
             </tr>
-            <tr>--> Pour utilisation future
+            <tr>Pour utilisation future
                 <td><?php submit_button(); ?></td>
-            </tr>
+            </tr>--> 
         </table>
    
     </form>
