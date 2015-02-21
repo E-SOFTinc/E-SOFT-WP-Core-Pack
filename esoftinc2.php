@@ -66,7 +66,6 @@ function cbw_shortcode_gemcoin_price(){
     $base_content = $TEC->source_get();
 
     if (!empty($base_content)){
-        
         $html = str_get_html($base_content);
         $html_price = $html->find('#text-2', 0);
         // Find all images
@@ -75,13 +74,9 @@ function cbw_shortcode_gemcoin_price(){
                 $ret = $element->children(0)->plaintext;
             }
         }
-
-    }
-    
-    
+	}
     return $ret;
 }
-
 
 /**
  * Finally add actions and filters
@@ -91,8 +86,6 @@ if (is_admin()){
     add_action( 'admin_menu', 'cbw_register_custom_menu' );
 }
 
-
 add_shortcode( 'es-year', 'cbw_shortcode' );
 add_shortcode( 'es-gemcoin-price', 'cbw_shortcode_gemcoin_price' );
-
 ?>

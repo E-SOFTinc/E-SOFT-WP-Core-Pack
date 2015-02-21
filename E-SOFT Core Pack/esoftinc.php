@@ -96,13 +96,9 @@ function cbw_shortcode_gemcoin_price(){
                 }
             }
         }
-
-    }
-    
-    
+    } 
     return $ret;
 }
-
 
 /**
  * Finally add actions and filters
