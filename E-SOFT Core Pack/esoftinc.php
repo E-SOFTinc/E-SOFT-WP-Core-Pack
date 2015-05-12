@@ -2,7 +2,7 @@
 /**
  * Plugin Name: E-SOFT Pack
  * Description: Wordpress Pack pour E-SOFT inc.
- * Version: 0.5
+ * Version: 0.6
  * Author:  E-SOFT inc.
  * Author URI: http://www.e-soft.ca
  * License: (C) E-SOFT inc.
