@@ -1,72 +1,72 @@
-#: ../column-shortcodes.php:263
+#: ../esoftinc.php:263
 msgid "Select shortcode"
 msgstr ""
 
-#: ../column-shortcodes.php:299
+#: ../esoftinc.php:299
 msgid "Column shortcodes"
 msgstr ""
 
-#: ../column-shortcodes.php:306
+#: ../esoftinc.php:306
 msgid "Column padding ( optional )"
 msgstr ""
 
-#: ../column-shortcodes.php:308
+#: ../esoftinc.php:308
 msgid ""
 "Use the input fields below to customize the padding of your column shortcode."
 msgstr ""
 
-#: ../column-shortcodes.php:309
+#: ../esoftinc.php:309
 msgid "Enter padding first, then select your column shortcode."
 msgstr ""
 
-#: ../column-shortcodes.php:324
+#: ../esoftinc.php:324
 msgid "reset"
 msgstr ""
 
-#: ../column-shortcodes.php:352
+#: ../esoftinc.php:352
 msgid "full width"
 msgstr ""
 
-#: ../column-shortcodes.php:353
+#: ../esoftinc.php:353
 msgid "one half"
 msgstr ""
 
-#: ../column-shortcodes.php:354
+#: ../esoftinc.php:354
 msgid "one third"
 msgstr ""
 
-#: ../column-shortcodes.php:355
+#: ../esoftinc.php:355
 msgid "one fourth"
 msgstr ""
 
-#: ../column-shortcodes.php:356
+#: ../esoftinc.php:356
 msgid "two third"
 msgstr ""
 
-#: ../column-shortcodes.php:357
+#: ../esoftinc.php:357
 msgid "three fourth"
 msgstr ""
 
-#: ../column-shortcodes.php:358
+#: ../esoftinc.php:358
 msgid "one fifth"
 msgstr ""
 
-#: ../column-shortcodes.php:359
+#: ../esoftinc.php:359
 msgid "two fifth"
 msgstr ""
 
-#: ../column-shortcodes.php:360
+#: ../esoftinc.php:360
 msgid "three fifth"
 msgstr ""
 
-#: ../column-shortcodes.php:361
+#: ../esoftinc.php:361
 msgid "four fifth"
 msgstr ""
 
-#: ../column-shortcodes.php:362
+#: ../esoftinc.php:362
 msgid "one sixth"
 msgstr ""
 
-#: ../column-shortcodes.php:390
+#: ../esoftinc.php:390
 msgid "last"
 msgstr ""
